@@ -1,5 +1,5 @@
 <!--Banner Image -->
-![Readme Image](assets\png_20220324_130718_0000.png)
+![Readme Image](./assets/png_20220324_130718_0000.png)
 <!--Horizontal Rule -->
  ----
 <!--Profile Badges -->
